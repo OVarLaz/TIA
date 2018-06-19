@@ -18,3 +18,6 @@ Arquitectura:
 # Backpropagation
 
 Se visualizan 3 archivos, el principal es NeuralNet, el cual indica el desarrollo del algoritmo y la red. Como dependencias están los BackProp .h y .cpp. El .h se encarga de las asignación para todas y cada una de las funciones, mientras que el cpp se encarga del desarrollo y acción de las funciones nombradas. Es un simple algoritmo para XOR.
+
+
+    Implementacion con cuda: https://github.com/ANNetGPGPU/ANNetGPGPU 
